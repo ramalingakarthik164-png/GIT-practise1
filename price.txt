@@ -1,2 +1,2 @@
-day 1 price =500
+day 1 price =2500
 day 2 price =1500
